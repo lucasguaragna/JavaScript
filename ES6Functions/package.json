@@ -1,0 +1,13 @@
+{
+  "name": "es6functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "car-ES6.js",
+  "scripts": {
+    "dev": "node car-ES6.js --inspect --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
