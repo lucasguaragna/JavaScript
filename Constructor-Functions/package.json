@@ -1,0 +1,13 @@
+{
+  "name": "constructor-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": " node car-constructorfunction.js --inspect --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
