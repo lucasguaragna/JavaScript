@@ -4,7 +4,9 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "dev": "node script.js --inspect --watch"
+    "dev": "node script.js --inspect --watch",
+    "challenge": "node challenge.js --inspect --watch",
+    "studies": "node constructorFunctions-vs-Classes.js --inspect --watch"
   },
   "keywords": [],
   "author": "",
