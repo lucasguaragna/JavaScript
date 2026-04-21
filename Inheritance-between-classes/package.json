@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "node script.js --inspect --watch",
     "challenge": "node challenge.js --inspect --watch",
+    "challenge_": "node challenge_.js --inspect --watch",
     "studies": "node constructorFunctions-vs-Classes.js --inspect --watch"
   },
   "keywords": [],
