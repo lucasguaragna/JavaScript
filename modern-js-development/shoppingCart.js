@@ -11,7 +11,7 @@ console.log(response);
 const shippingCost = 10;
 export const cart = [];
 
-export const addToCart = function name(params) {
+export const addToCart = function (item, quantity) {
     cart.push({item, quantity});
     console.log(`${quantity} ${item} was added to the cart`);
 }
